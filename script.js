@@ -457,7 +457,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // ──────────────────────────────────────────────────────────────────────────
 
   // ── Name typewriter ────────────────────────────────────────────────────────
-  const name = 'TeT';
+  const name = 'Umairisfat';
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
