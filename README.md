@@ -1,2 +1,2 @@
-# Profile
-Umair is a virgin
+# Profile for me, Cyber
+Profile hoster, fuck guns.lol
